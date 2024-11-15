@@ -11,3 +11,6 @@
     1. type `sv_allow_annotations true`
     2. type `annotation_load filenameYouWantToUse`
 4. navigate the map until you find one of the nades
+
+## Contribute 
+email me and we'll talk
