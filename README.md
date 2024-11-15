@@ -2,7 +2,7 @@
 
 ## How To
 
-1. Download the **files** you want from the `cs2annotations` into your
+1. Download the **files** you want from the map directories into your: 
    `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\annotations\` folder
     - ℹ️ don't leave the file in their folder move them directly under annotations ℹ️
     - 📋TODO check if subdirectories are supported or remove map subdirectories. 📋
